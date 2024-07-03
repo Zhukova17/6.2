@@ -1,0 +1,14 @@
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\bin\Debug\6.2.exe.config
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\bin\Debug\6.2.exe
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\bin\Debug\6.2.pdb
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\6.2.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\_6._2.Form1.resources
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\_6._2.Form2.resources
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\_6._2.Form3.resources
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\_6._2.Form4.resources
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\_6._2.Form5.resources
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\_6._2.Properties.Resources.resources
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\6.2.csproj.GenerateResource.cache
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\6.2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\6.2.exe
+C:\Users\Анастасия\Documents\Ломова\Кодирование\6.2\6.2\obj\Debug\6.2.pdb
